@@ -22,7 +22,10 @@
 <p align="left">
 <a href="[https://dev.to/https://devfolio.co/@get_shruti" target="blank](https://dev.to/shruticollab)"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://devfolio.co/@get_shruti" height="30" width="40" /></a>
 <a href="https://twitter.com/shrutik488" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shrutik488" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/shruti-kumari-a35b302b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shruti-kumari-a35b302b8/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shruti-kumari-a35b302b8/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shruti-kumari-a35b302b8" height="30" width="40" />
+</a>
+
 <a href="https://discord.gg/https://discord.gg/zc9AVERX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/zc9AVERX" height="30" width="40" /></a>
 </p>
 
