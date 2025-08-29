@@ -1,3 +1,4 @@
+![logo](https://github.com/shruti-collab/shruti-collab/blob/main/Building%20projects%20that%20solve%20real%20problems%20%F0%9F%9A%80.png)
 <h1 align="center">Hi 👋, I'm Shruti</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
